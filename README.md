@@ -1,4 +1,4 @@
-![IMG_20250529_183933](https://github.com/user-attachments/assets/7f0f1955-a78d-4d67-bd47-15f9b7693421)
+
 
 ---
 
