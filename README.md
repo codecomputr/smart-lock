@@ -42,7 +42,7 @@ This project implements a smart lock system that automatically unlocks when the 
 - Adjust the lock timing in the code as needed.
 - Use a suitable power supply for the lock mechanism and components.
 
-
+![IMG_20250529_183933](https://github.com/user-attachments/assets/7f0f1955-a78d-4d67-bd47-15f9b7693421)
 
 ![Uploading IMG_20250![Uploading IMG_20250529_183939.jpg…]()
 529_183933.jpg…]()
