@@ -1,4 +1,4 @@
-
+![IMG_20250529_183933](https://github.com/user-attachments/assets/7f0f1955-a78d-4d67-bd47-15f9b7693421)
 
 ---
 
@@ -41,3 +41,29 @@ This project implements a smart lock system that automatically unlocks when the 
 - Ensure the Huskylens is properly trained with authorized faces for accurate recognition.
 - Adjust the lock timing in the code as needed.
 - Use a suitable power supply for the lock mechanism and components.
+
+
+
+![Uploading IMG_20250![Uploading IMG_20250529_183939.jpg…]()
+529_183933.jpg…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
